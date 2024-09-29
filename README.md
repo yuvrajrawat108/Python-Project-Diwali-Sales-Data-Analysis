@@ -1,4 +1,4 @@
-#Python Project - Performed Data Analysis by leveraging Python libraries
+# Python Project - Performed Data Analysis by leveraging Python libraries
 
 1) Performed data cleaning and analysis.
 2) Performed exploratory data analysis (EDA) using python libraries such as pandas, matplotlib and seaborn.
